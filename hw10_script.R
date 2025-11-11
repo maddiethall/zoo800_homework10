@@ -4,6 +4,7 @@
 ###################################
 
 library(readxl)
+library(ggplot2)
 library(ggfortify)
 
 ### OBJECTIVE 1
